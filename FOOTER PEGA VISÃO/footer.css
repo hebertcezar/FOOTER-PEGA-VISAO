@@ -1,0 +1,89 @@
+footer{
+    background-color: white;
+}
+
+.footerlogo{
+    list-style-type: none;
+}
+
+.servpv{
+    display: flex;
+    flex-direction: column;
+    color: #3b7197;
+    font-size: 25px;
+    position: relative;
+}
+
+.all{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.footerpv{
+    height: 300px;
+}
+
+.servifotter{
+    position: relative;
+    right: 10px;
+}
+
+.cons{
+    font-size: 25px;
+}
+
+.exa{
+    font-size: 25px;
+}
+
+.cir{
+    font-size: 25px;
+}
+
+.pro{
+    font-size: 25px;
+}
+
+.endereço{
+    list-style: url(./img/mapsicon.png);
+    text-align: center;
+    color: #3b7197;
+}
+
+.avsapo{
+    position: relative;
+    bottom: 15px;
+}
+
+
+.wpp{
+    list-style: url(./img/wppicon.png);
+    color: #3F3F3F;
+    font-size: 20px;
+    color: #3b7197;
+    position: relative;
+}
+
+.num{
+    position: relative;
+    bottom: 8px;
+}
+
+.fim{
+    text-align: center;
+    background-color: white;
+}
+
+.marcar{
+    position: relative;
+    left: 67px;
+    font-size: 20px;
+    height: 100px;
+    width: 200px;
+    background-color: #d7eafd;
+    color: #3b7197;
+    border: none;
+    border-radius: 30px;
+}
